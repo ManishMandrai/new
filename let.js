@@ -21,4 +21,5 @@ a = 6
     let abc = 8;
     console.log(abc);
 }
-    console.log(abc);
+console.log(abc);
+
